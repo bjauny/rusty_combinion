@@ -1,6 +1,7 @@
 [package]
 name = "rusty_combinion"
 version = "0.1.0"
+authors = ["Bastien JAUNY <bastien.jauny@gmail.com>"]
 edition = "2021"
 
 [dependencies]
