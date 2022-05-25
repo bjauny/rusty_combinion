@@ -1,5 +1,7 @@
+use rocket::launch;
 use rusty_combinion::rocket;
 
-fn main() {
-    rocket().launch();
+#[launch]
+fn start() -> _ {
+    rocket()
 }

@@ -12,4 +12,4 @@ path = "src/main.rs"
 name = "rusty_combinion"
 
 [dependencies]
-rocket = "0.4.10"
+rocket = { version = "0.5.0-rc.2", features = ["secrets"] }
