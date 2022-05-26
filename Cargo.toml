@@ -13,3 +13,4 @@ name = "rusty_combinion"
 
 [dependencies]
 rocket = { version = "0.5.0-rc.2", features = ["secrets"] }
+rocket_oauth2 = "0.5.0-rc.1"
